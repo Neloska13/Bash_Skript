@@ -1,2 +1,4 @@
 # Mein erstes Git Repositorium
-- Author: Nele Neu
+## Meine Bash Skripte
+
+- Author: **Nele Neuberger**
